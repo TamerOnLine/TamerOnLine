@@ -46,10 +46,10 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 🌐 Learning new languages
 
 ### 📫 How to Reach Me:
-- 📧 [info@tameronline.com](mailto:info@tameronline.com)
-- [![LinkedIn Logo](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/tameronline)
-
+- 📧 Email: [info@tameronline.com](mailto:info@tameronline.com)
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> LinkedIn](https://www.linkedin.com/in/tameronline)
 - 🌐 [Personal Website](https://www.mystrotamer.com)
+
 
 ### 🌟 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
