@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Tamer 👋
 
-<!--
-**TamerOnLine/TamerOnLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm **Tamer**, a professional accountant and a passionate programmer. I am highly interested in software development, data analysis, and chess. Currently, I’m focused on advancing my programming skills in **Python** and exploring new technologies.
 
-Here are some ideas to get you started:
+### 💼 Skills and Technologies:
+- 💻 **Programming Languages**: 
+  - Python
+  - JavaScript
+  - SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Technologies & Tools**:
+  - Django / Flask
+  - Pandas / Numpy
+  - Git & GitHub
+  - VS Code
+  - Docker
+
+### 📚 Current Projects:
+- 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency.
+- 🤖 **Python Programming**: Working on various Python projects for problem-solving and data analytics.
+
+### ♟️ Interests:
+- Chess
+- Artificial Intelligence
+- Learning new languages
+
+### 📫 How to Reach Me:
+- 📧 Email: [info@tameronline.com](mailto:info@tameronline.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tameronline)
+- 🌐 [Personal Website](https://www.mystrotamer.com)
+
+### 🌟 GitHub Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
+
+### 🚀 Favorite Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
