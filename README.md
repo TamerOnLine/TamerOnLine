@@ -5,25 +5,45 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 
 ### 💼 Skills and Technologies:
 - 💻 **Programming Languages**: 
-  - Python
-  - JavaScript
-  - SQL
+  - 🐍 Python
+  - 📜 JavaScript
+  - 🗃️ SQL
+  - 🔄 VBA Access
 
 - 🛠️ **Technologies & Tools**:
-  - Django / Flask
-  - Pandas / Numpy
-  - Git & GitHub
-  - VS Code
-  - Docker
+  - 🌐 Django / Flask
+  - 📊 Pandas / Numpy
+  - 🗂️ Git & GitHub
+  - 💡 VS Code
+  - 🐳 Docker
+  - 🖥️ Streamlit
+  - 🚀 FastAPI
+  - ☁️ Amazon Bedrock
+  - 🔗 LangChain
+  - 🧠 LLM (Large Language Models)
+  - 💬 Neuro-Linguistic Programming (NLP)
+  - 📚 NLP Libraries
+  - 🔍 Vectordb
+  - 📇 llamaindex
+  - 📈 Microsoft Power BI
+  - 📊 Data Visualization
+  - 🤖 Machine Learning & Deep Learning
+  - 🗃️ MySQL / PostgreSQL
+  - 🔧 MLOps
+  - 💼 Microsoft Office Suite
+  - 📊 Microsoft Excel
+  - 🎨 Frontend Development
+  - ⚙️ Automation and Programming
+  - 💼 Economic Feasibility Study
 
 ### 📚 Current Projects:
 - 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency.
 - 🤖 **Python Programming**: Working on various Python projects for problem-solving and data analytics.
 
 ### ♟️ Interests:
-- Chess
-- Artificial Intelligence
-- Learning new languages
+- ♟️ Chess
+- 🤖 Artificial Intelligence
+- 🌐 Learning new languages
 
 ### 📫 How to Reach Me:
 - 📧 Email: [info@tameronline.com](mailto:info@tameronline.com)
