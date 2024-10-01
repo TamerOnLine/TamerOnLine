@@ -9,7 +9,7 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
   - 🐍 [Python](https://www.python.org/doc/)
   - 📜 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - 🗃️ [SQL](https://www.w3schools.com/sql/)
-  - 🔄 VBA Access
+  - 🔄 [VBA Access](https://docs.microsoft.com/en-us/office/vba/api/overview/access)
 
 - 🛠️ **Technologies & Tools**:
   - 🌐 [Django](https://www.djangoproject.com/) / [Flask](https://flask.palletsprojects.com/)
@@ -50,6 +50,7 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 📧 [info@tameronline.com](mailto:info@tameronline.com)
 - [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20"> LinkedIn](https://www.linkedin.com/in/tameronline)
 - 🌐 [Personal Website](https://www.mystrotamer.com)
+- 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
 
 ### 🌟 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
