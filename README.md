@@ -12,30 +12,30 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
   - 🔄 VBA Access
 
 - 🛠️ **Technologies & Tools**:
-  - 🌐 [Django](https://www.djangoproject.com/) / Flask
-  - 📊 Pandas / Numpy
+  - 🌐 [Django](https://www.djangoproject.com/) / [Flask](https://flask.palletsprojects.com/)
+  - 📊 [Pandas](https://pandas.pydata.org/) / [Numpy](https://numpy.org/)
   - 🗂️ [Git & GitHub](https://docs.github.com/en)
   - 💡 [VS Code](https://code.visualstudio.com/)
   - 🐳 [Docker](https://www.docker.com/)
-  - 🖥️ Streamlit
+  - 🖥️ [Streamlit](https://streamlit.io/)
   - 🚀 [FastAPI](https://fastapi.tiangolo.com/)
   - ☁️ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
-  - 🔗 LangChain
-  - 🧠 LLM (Large Language Models)
-  - 💬 Neuro-Linguistic Programming (NLP)
-  - 📚 NLP Libraries
-  - 🔍 Vectordb
+  - 🔗 [LangChain](https://www.langchain.com/)
+  - 🧠 [LLM (Large Language Models)](https://en.wikipedia.org/wiki/Large_language_model)
+  - 💬 [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming)
+  - 📚 [NLP Libraries](https://spacy.io/)
+  - 🔍 [Vectordb](https://www.vectordb.com/)
   - 📇 [llamaindex](https://github.com/jerryjliu/llama_index)
-  - 📈 Microsoft Power BI
-  - 📊 Data Visualization
-  - 🤖 Machine Learning & Deep Learning
-  - 🗃️ MySQL / PostgreSQL
-  - 🔧 MLOps
-  - 💼 Microsoft Office Suite
-  - 📊 Microsoft Excel
-  - 🎨 Frontend Development
-  - ⚙️ Automation and Programming
-  - 💼 Economic Feasibility Study
+  - 📈 [Microsoft Power BI](https://powerbi.microsoft.com/)
+  - 📊 [Data Visualization](https://www.tableau.com/learn/articles/data-visualization)
+  - 🤖 [Machine Learning](https://scikit-learn.org/stable/) & [Deep Learning](https://www.tensorflow.org/)
+  - 🗃️ [MySQL](https://dev.mysql.com/doc/) / [PostgreSQL](https://www.postgresql.org/)
+  - 🔧 [MLOps](https://ml-ops.org/)
+  - 💼 [Microsoft Office Suite](https://www.microsoft.com/en/microsoft-365)
+  - 📊 [Microsoft Excel](https://support.microsoft.com/en-us/excel)
+  - 🎨 [Frontend Development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+  - ⚙️ [Automation](https://automatetheboringstuff.com/) and Programming
+  - 💼 [Economic Feasibility Study](https://www.investopedia.com/terms/f/feasibility-study.asp)
 
 ### 📚 Current Projects:
 - 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency. [Duolingo German Course](https://www.duolingo.com/course/de/en/Learn-German)
