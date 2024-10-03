@@ -46,6 +46,8 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
 
 ### 📫 How to Reach Me:
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?logo=huggingface)](https://huggingface.co/TamerOnLine)
+
 - 📧 [info@tameronline.com](mailto:info@tameronline.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
