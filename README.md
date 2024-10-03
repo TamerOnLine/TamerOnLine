@@ -1,4 +1,3 @@
-
 # Hi there, I'm Tamer 👋
 
 ### 👨‍💻 About Me
@@ -38,27 +37,23 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
   - 💼 [Economic Feasibility Study](https://www.investopedia.com/terms/f/feasibility-study.asp)
 
 ### 📚 Current Projects:
-- 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency. [![Duolingo German Course](https://www.duolingo.com/course/de/en/Learn-German)]
-- 🤖 **Python Programming**: Working on various Python projects for problem-solving and data analytics. Check out [![Real Python Projects](https://realpython.com/)].
+- 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency.
+- 🤖 **Python Programming**: Working on various Python projects for problem-solving and data analytics.
 
 ### ♟️ Interests:
-- ♟️ [![Chess](https://www.chess.com/member/tameronline)]
-- 🤖 [![Artificial Intelligence](https://chatgpt.com/share/66fc4d28-d8a4-8007-9785-84533800988d)]
-- 🌐 [![Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)]
+- ♟️ [Chess](https://www.chess.com/member/tameronline)
+- 🤖 [Artificial Intelligence](https://chatgpt.com/share/66fc4d28-d8a4-8007-9785-84533800988d)
+- 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
 
 ### 📫 How to Reach Me:
 - 📧 [info@tameronline.com](mailto:info@tameronline.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
-
-
-- 🌐 [![Personal Website](https://www.mystrotamer.com)]
-- 🌐 [![Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)]
+- 🌐 [Personal Website](https://www.mystrotamer.com)
+- 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
 
 ### 🌟 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
 
 ### 🚀 Favorite Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
-
-
