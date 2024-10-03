@@ -46,7 +46,7 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
 
 ### 📫 How to Reach Me:
-- 📧 [info@tameronline.com](mailto:info@tameronline.com)
+- 📧 [![info@tameronline.com](mailto:info@tameronline.com)]
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
 - 🌐 [Personal Website](https://www.mystrotamer.com)
