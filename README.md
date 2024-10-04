@@ -1,7 +1,8 @@
 # Hi there, I'm Tamer 👋
 
 ## Social Media Links
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline) [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline) [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)]
+
 
 ### 👨‍💻 About Me
 I'm **Tamer**, a professional accountant and a passionate programmer. I am highly interested in software development, data analysis, and chess. Currently, I’m focused on advancing my programming skills in **Python** and exploring new technologies.
