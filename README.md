@@ -1,7 +1,7 @@
 # Hi there, I'm Tamer 👋
 
 ## Social Media Links
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline) [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/) [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mystrotamer) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline) [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine)
 
 ### 👨‍💻 About Me
 I'm **Tamer**, a professional accountant and a passionate programmer. I am highly interested in software development, data analysis, and chess. Currently, I’m focused on advancing my programming skills in **Python** and exploring new technologies.
@@ -49,10 +49,6 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
 
 ### 📫 How to Reach Me:
-
-- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?logo=huggingface)](https://huggingface.co/TamerOnLine)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
 
 - 🌐 [Personal Website](https://www.mystrotamer.com)
 - 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
