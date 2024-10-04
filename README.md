@@ -46,9 +46,11 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
 
 ### 📫 How to Reach Me:
+
 - [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?logo=huggingface)](https://huggingface.co/TamerOnLine)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
+
 - 🌐 [Personal Website](https://www.mystrotamer.com)
 - 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
 - 📧 [info@tameronline.com](mailto:info@tameronline.com)
@@ -58,3 +60,10 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 
 ### 🚀 Favorite Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
+
+
+## Social Media Links
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/)
+- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline)
+- [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine)
