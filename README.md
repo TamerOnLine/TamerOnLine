@@ -14,30 +14,25 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
   - 🔄 [VBA Access](https://docs.microsoft.com/en-us/office/vba/api/overview/access)
 
 - 🛠️ **Technologies & Tools**:
-  - 🌐 [Django](https://www.djangoproject.com/) / [Flask](https://flask.palletsprojects.com/)
+  - 🌐 [Django](https://www.djangoproject.com/) 
   - 📊 [Pandas](https://pandas.pydata.org/) / [Numpy](https://numpy.org/)
   - 🗂️ [Git & GitHub](https://docs.github.com/en)
-  - 💡 [VS Code](https://code.visualstudio.com/)
-  - 🐳 [Docker](https://www.docker.com/)
+  - 💡 [VS Code](https://code.visualstudio.com/) 
   - 🖥️ [Streamlit](https://streamlit.io/)
   - 🚀 [FastAPI](https://fastapi.tiangolo.com/)
-  - ☁️ [Amazon Bedrock](https://aws.amazon.com/bedrock/)
-  - 🔗 [LangChain](https://www.langchain.com/)
   - 🧠 [LLM (Large Language Models)](https://en.wikipedia.org/wiki/Large_language_model)
-  - 💬 [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming)
-  - 📚 [NLP Libraries](https://spacy.io/)
+  - 💬 [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) 
   - 🔍 [Vectordb](https://www.vectordb.com/)
   - 📇 [llamaindex](https://github.com/jerryjliu/llama_index)
   - 📈 [Microsoft Power BI](https://powerbi.microsoft.com/)
   - 📊 [Data Visualization](https://www.tableau.com/learn/articles/data-visualization)
   - 🤖 [Machine Learning](https://scikit-learn.org/stable/) & [Deep Learning](https://www.tensorflow.org/)
   - 🗃️ [MySQL](https://dev.mysql.com/doc/) / [PostgreSQL](https://www.postgresql.org/)
-  - 🔧 [MLOps](https://ml-ops.org/)
   - 💼 [Microsoft Office Suite](https://www.microsoft.com/en/microsoft-365)
   - 📊 [Microsoft Excel](https://support.microsoft.com/en-us/excel)
   - 🎨 [Frontend Development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-  - ⚙️ [Automation](https://automatetheboringstuff.com/) and Programming
-  - 💼 [Economic Feasibility Study](https://www.investopedia.com/terms/f/feasibility-study.asp)
+
+
 
 ### 📚 Current Projects:
 - 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency.
@@ -50,6 +45,10 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 
 ### 📫 How to Reach Me:
 
+- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?logo=huggingface)](https://huggingface.co/TamerOnLine)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
+- [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mystrotamer) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
+
 - 🌐 [Personal Website](https://www.mystrotamer.com)
 - 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
 - 📧 [info@tameronline.com](mailto:info@tameronline.com)
@@ -61,3 +60,8 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
 
 
+### 📚 قيد الدراسة
+- 📘 🔥 [Flask](https://flask.palletsprojects.com/)
+- 📕 🐳 [Docker](https://www.docker.com/)
+- 📗 🔗 [LangChain](https://www.langchain.com/)
+- 📗 🧠 [NLP Libraries](https://spacy.io/)
