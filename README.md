@@ -29,11 +29,11 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
   - 📊 [Microsoft Excel](https://support.microsoft.com/en-us/excel)
   - 🎨 [Frontend Development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
-  - 📚 **In Progress**:
-    - 🔥 [Flask](https://flask.palletsprojects.com/)
-    - 🐳 [Docker](https://www.docker.com/)
-    - 🔗 [LangChain](https://www.langchain.com/)
-    - 🧠 [NLP Libraries](https://spacy.io/)
+- 📚 **In Progress**:
+  - 🔥 [Flask](https://flask.palletsprojects.com/)
+  - 🐳 [Docker](https://www.docker.com/)
+  - 🔗 [LangChain](https://www.langchain.com/)
+  - 🧠 [NLP Libraries](https://spacy.io/)
 
 
 ### 📚 Current Projects:
