@@ -7,6 +7,7 @@
 I'm **Tamer**, a professional accountant and a passionate programmer. I am highly interested in software development, data analysis, and chess. Currently, I’m focused on advancing my programming skills in **Python** and exploring new technologies.
 
 ### 💼 Skills and Technologies:
+
 - 💻 **Programming Languages**: 
   - 🐍 [Python](https://www.python.org/doc/)
   - 📜 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -20,9 +21,7 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
   - 💡 [VS Code](https://code.visualstudio.com/) 
   - 🖥️ [Streamlit](https://streamlit.io/)
   - 🚀 [FastAPI](https://fastapi.tiangolo.com/)
-  - 🧠 [LLM (Large Language Models)](https://en.wikipedia.org/wiki/Large_language_model)
-  - 💬 [Neuro-Linguistic Programming (NLP)](https://en.wikipedia.org/wiki/Neuro-linguistic_programming) 
-  - 🔍 [Vectordb](https://www.vectordb.com/)
+  - 🧠 [LLM (Large Language Models)](https://en.wikipedia.org/wiki/Large_language_model) 
   - 📇 [llamaindex](https://github.com/jerryjliu/llama_index)
   - 📈 [Microsoft Power BI](https://powerbi.microsoft.com/)
   - 📊 [Data Visualization](https://www.tableau.com/learn/articles/data-visualization)
@@ -43,25 +42,24 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 - 🤖 [Artificial Intelligence](https://chatgpt.com/share/66fc4d28-d8a4-8007-9785-84533800988d)
 - 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
 
-### 📫 How to Reach Me:
 
-- [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?logo=huggingface)](https://huggingface.co/TamerOnLine)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tameronline)
-- [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mystrotamer) [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/tameronline)
+### 📫 How to Reach Me:
 
 - 🌐 [Personal Website](https://www.mystrotamer.com)
 - 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
 - 📧 [info@tameronline.com](mailto:info@tameronline.com)
 
+
+### 📚 In Progress
+- 🔥 [Flask](https://flask.palletsprojects.com/)
+- 🐳 [Docker](https://www.docker.com/)
+- 🔗 [LangChain](https://www.langchain.com/)
+- 🧠 [NLP Libraries](https://spacy.io/)
+
+
 ### 🌟 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
 
+
 ### 🚀 Favorite Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
-
-
-### 📚 قيد الدراسة
-- 📘 🔥 [Flask](https://flask.palletsprojects.com/)
-- 📕 🐳 [Docker](https://www.docker.com/)
-- 📗 🔗 [LangChain](https://www.langchain.com/)
-- 📗 🧠 [NLP Libraries](https://spacy.io/)
