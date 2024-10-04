@@ -33,7 +33,7 @@ I'm **Tamer**, a professional accountant and a passionate programmer. I am highl
 
 ### 📚 Current Projects:
 - 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency.
-- 🤖 **Python Programming**: Working on various Python projects for problem-solving and data analytics.
+
 
 ### ♟️ Interests:
 - ♟️ [Chess](https://www.chess.com/member/tameronline)
