@@ -1,5 +1,7 @@
 # Hi there, I'm Tamer 👋
 
+<img src="assets/TamerOnLine.jpg" alt="Tamer Online" align="right" width="250" style="margin: 10px;" />
+
 ## Social Media Links
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/) [![PyPI](https://img.shields.io/badge/-PyPI-black?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/TamerOnLine/) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline) [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine) [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mystrotamer)
 
