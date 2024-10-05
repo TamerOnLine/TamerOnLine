@@ -76,3 +76,7 @@ I'm a dedicated learner and developer, constantly exploring new technologies and
 
 ## 🚀 Favorite Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
+
+
+## 🚀 Favorite Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
