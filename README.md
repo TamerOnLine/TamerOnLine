@@ -1,4 +1,14 @@
-# Hi there, I'm Tamer 👋
+# Tamer Online's Project Repository
+
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT) 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/TamerOnLine/TamerOnLine/actions)
+[![Issues](https://img.shields.io/github/issues/TamerOnLine/TamerOnLine)](https://github.com/TamerOnLine/TamerOnLine/issues)
+[![Stars](https://img.shields.io/github/stars/TamerOnLine/TamerOnLine?style=social)](https://github.com/TamerOnLine/TamerOnLine/stargazers)
+
+> A comprehensive repository for showcasing projects on data analysis, programming, and artificial intelligence — developed using modern technologies.
+
+## 👋 Hi there, I'm Tamer!
 
 <img src="assets/TamerOnLine.jpg" alt="Tamer Online" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
 
