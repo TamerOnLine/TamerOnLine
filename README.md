@@ -6,85 +6,97 @@
 [![Issues](https://img.shields.io/github/issues/TamerOnLine/TamerOnLine)](https://github.com/TamerOnLine/TamerOnLine/issues)
 [![Stars](https://img.shields.io/github/stars/TamerOnLine/TamerOnLine?style=social)](https://github.com/TamerOnLine/TamerOnLine/stargazers)
 
-> A comprehensive repository for showcasing projects on data analysis, programming, and artificial intelligence — developed using modern technologies.
+> A professional repository showcasing projects in **Machine Learning, Data Analysis, MLOps, and Software Development**.
+
+---
 
 ## 👋 Hi there, I'm Tamer!
 
 <img src="assets/TamerOnLine.jpg" alt="Tamer Online" width="200" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
 
-I'm **Tamer**, a professional accountant and a passionate programmer. I am highly interested in software development, data analysis, and chess.  
-Currently, I’m focused on advancing my programming skills in **Python** and exploring new technologies.
+I'm **Tamer Hamad Faour**, a software developer with expertise in **machine learning, data analysis, and cloud technologies**. I specialize in **MLOps**, Docker, CI/CD, and full-stack development. Passionate about **chess, AI, and automation**, I'm constantly exploring new technologies to optimize workflows and enhance AI capabilities.
 
 <br clear="left"/>
 
-## 🌐 Social Media Links
+## 🏆 Certifications
+
+- [Microsoft AI Fundamentals](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR?ref=LinkedIn&loc=play)
+- **AI (KI) Development - Mystro GmbH** (Machine Learning, Deep Learning, Generative AI, 1000 Training Hours)
+
+
+- **Google Analytics Certified**
+- **Generative AI for Educators Certificate - Google**
+- **Advanced Machine Learning - Kaggle**
+- **MLOps Fundamentals - Google Cloud**
+- **Deep Learning Specialization - Coursera**
+- **Data Science Professional Certificate - IBM**
+- **LangChain & LLM Development**
+
+## 💼 Skills and Technologies
+
+### 🚀 Programming Languages
+- 🐍 **Python** (Advanced)
+- 📜 **JavaScript**
+- 🗃 **SQL**
+- 🔄 **VBA (Access)**
+
+### 🔧 Tools & Technologies
+- 🖥️ **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn
+- 🌍 **MLOps & Cloud**: Docker, CI/CD, MLflow, Hugging Face, LangChain
+- 🏗️ **Web Development**: FastAPI, Flask, Django, Streamlit
+- 🗃 **Databases**: MySQL, PostgreSQL, MongoDB
+- 📊 **Data Science**: Pandas, Numpy, Polars
+- 🔍 **Analytics & Visualization**: Power BI, Excel, Matplotlib, Seaborn
+
+## 📚 Featured Projects
+
+### 1️⃣ **Image Classification using Transfer Learning**  
+🔗 [GitHub Repo](https://github.com/TamerOnLine/img-classifier)  
+A deep learning model for **image classification** using pre-trained models like ResNet and VGG.
+
+### 2️⃣ **Streamlit-Docker Deployment**  
+🔗 [GitHub Repo](https://github.com/TamerOnLine/Streamlit-Docker)  
+A fully containerized **Streamlit app** deployed using Docker for seamless MLOps integration.
+
+### 3️⃣ **LangChain-based AI Model**  
+🔗 [GitHub Repo](https://github.com/TamerOnLine/LangChain-LLM)  
+An AI-powered chatbot leveraging **LangChain and LlamaIndex** for context-aware responses.
+
+### 4️⃣ **German Learning AI Model**  
+🔗 [GitHub Repo](https://github.com/TamerOnLine/German-Learning-Model)  
+A smart **AI-powered German language learning assistant**.
+
+### 5️⃣ **AI-Powered Chess Analysis**  
+🔗 [GitHub Repo](https://github.com/TamerOnLine/Chess-Analyzer)  
+A tool for **analyzing chess PGN files** using AI to suggest optimal moves and strategies.
+
+## 🌍 Social & Professional Profiles
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/TamerOnLine)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameronline/)
-[![PyPI](https://img.shields.io/badge/-PyPI-black?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/TamerOnLine/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/tameronline)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/TamerOnLine)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mystrotamer)
 
-## 👨‍💻 About Me
-I'm a dedicated learner and developer, constantly exploring new technologies and enhancing my programming skills. My primary focus is on data analysis and machine learning.
+## 📫 Contact
 
-## 💼 Skills and Technologies
+- 📩 **Email**: [info@tameronline.com](mailto:info@tameronline.com)
 
-### 💻 Programming Languages
-- 🐍 [Python](https://www.python.org/doc/)
-- 📜 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- 🗃️ [SQL](https://www.w3schools.com/sql/)
-- 🔄 [VBA Access](https://docs.microsoft.com/en-us/office/vba/api/overview/access)
+## 🚀 GitHub Stats
 
-### 🛠️ Tools & Technologies
-- 🌐 [Django](https://www.djangoproject.com/) 
-- 📊 [Pandas](https://pandas.pydata.org/) / [Numpy](https://numpy.org/)
-- 🗂️ [Git & GitHub](https://docs.github.com/en)
-- 💡 [VS Code](https://code.visualstudio.com/) 
-- 🖥️ [Streamlit](https://streamlit.io/)
-- 🧠 [LLM (Large Language Models)](https://en.wikipedia.org/wiki/Large_language_model) 
-- 📇 [llamaindex](https://github.com/jerryjliu/llama_index)
-- 📈 [Microsoft Power BI](https://powerbi.microsoft.com/)
-- 🤖 [Machine Learning](https://scikit-learn.org/stable/) & [Deep Learning](https://www.tensorflow.org/)
-- 🗃️ [MySQL](https://dev.mysql.com/doc/) / [PostgreSQL](https://www.postgresql.org/)
-- 💼 [Microsoft Office Suite](https://www.microsoft.com/en/microsoft-365)
-- 📊 [Microsoft Excel](https://support.microsoft.com/en-us/excel)
-- 🎨 [Frontend Development](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-
-### 📚 In Progress
-- 🔥 [Flask](https://flask.palletsprojects.com/)
-- 🐳 [Docker](https://www.docker.com/)
-- 🔗 [LangChain](https://www.langchain.com/)
-- 🧠 [NLP Libraries](https://spacy.io/)
-
-## 📚 Current Projects
-- 🔭 **German Learning Model**: Building a comprehensive model to learn the German language from scratch to proficiency.
-
-## 🌟 Interests
-- ♟️ [Chess](https://www.chess.com/member/tameronline)
-- 🤖 [Artificial Intelligence](https://chatgpt.com/share/66fc4d28-d8a4-8007-9785-84533800988d)
-- 🌐 [Learning new languages](https://www.duolingo.com/profile/RoseLisaJenne714)
-
-## 📫 How to Reach Me
-- 🌐 [Personal Website](https://www.mystrotamer.com)
-- 🌐 [Microsoft Learn Profile](https://learn.microsoft.com/ar-sa/users/tameronline/)
-- 📧 [info@tameronline.com](mailto:info@tameronline.com)
-
-## 🌟 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
-
-## 🚀 Favorite Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
 
+---
 
-## 🎓 Learn More
+## 🎯 Learning & Future Goals
 
-Here are a few topics and technologies I'm looking to learn and explore further:
+- **DevOps & Infrastructure**: Kubernetes, Terraform, AWS
+- **Cybersecurity**: Ethical hacking, penetration testing
+- **Cloud Computing**: Google Cloud, Microsoft Azure
+- **Mobile Development**: Flutter, React Native
+- **Mentorship & Teaching**: Helping beginners in AI & ML
 
-- 🏗️ **DevOps**: Jenkins, Kubernetes, and Terraform.
-- 🔐 **Cybersecurity**: Network security, ethical hacking, and penetration testing.
-- 🌐 **Cloud Computing**: AWS, Google Cloud, and Microsoft Azure.
-- 📱 **Mobile Development**: React Native and Flutter.
-- 🤝 **Teaching & Mentoring**: Enhancing my skills to better support and guide new learners.
+---
 
+🎯 *Always eager to collaborate and contribute to open-source projects!*
