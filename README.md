@@ -20,9 +20,7 @@ I'm **Tamer Hamad Faour**, a software developer with expertise in **machine lear
 
 ## 🏆 Certifications
 
-- [Microsoft AI Fundamentals](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR?ref=LinkedIn&loc=play)
-- **AI (KI) Development - Mystro GmbH** (Machine Learning, Deep Learning, Generative AI, 1000 Training Hours)
-
+- [AI (KI) Development - Mystro GmbH](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR?ref=LinkedIn&loc=play)
 
 - **Google Analytics Certified**
 - **Generative AI for Educators Certificate - Google**
