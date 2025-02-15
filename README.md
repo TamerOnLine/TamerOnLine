@@ -1,7 +1,7 @@
 # Tamer Online's Project Repository
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT) 
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/TamerOnLine/TamerOnLine/actions)
 [![Issues](https://img.shields.io/github/issues/TamerOnLine/TamerOnLine)](https://github.com/TamerOnLine/TamerOnLine/issues)
 [![Stars](https://img.shields.io/github/stars/TamerOnLine/TamerOnLine?style=social)](https://github.com/TamerOnLine/TamerOnLine/stargazers)
@@ -21,7 +21,6 @@ I'm **Tamer Hamad Faour**, a software developer with expertise in **machine lear
 ## 🏆 Certifications
 
 - [AI (KI) Development - Mystro GmbH](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR?ref=LinkedIn&loc=play)
-
 - **Google Analytics Certified**
 - **Generative AI for Educators Certificate - Google**
 - **Advanced Machine Learning - Kaggle**
@@ -84,6 +83,7 @@ A tool for **analyzing chess PGN files** using AI to suggest optimal moves and s
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TamerOnLine&theme=radical)
 
 ---
 
