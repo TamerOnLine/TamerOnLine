@@ -49,7 +49,7 @@ AI / Machine Learning • Data Engineering • Resume Automation • Intelligent
 
 ### 🌐 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-www.mystrotamer.com-blue?style=flat-square&logo=google-chrome)](https://www.mystrotamer.com/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TamerOnLine-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tameronline)
 [![X (Twitter)](https://img.shields.io/badge/X-@denkegewinnen-black?style=flat-square&logo=x)](https://x.com/denkegewinnen)
 [![YouTube](https://img.shields.io/badge/YouTube-@MystroTamer-red?style=flat-square&logo=youtube)](https://www.youtube.com/@mystrotamer)
