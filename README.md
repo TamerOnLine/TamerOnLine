@@ -9,27 +9,22 @@ I focus on creating open-source tools that connect FastAPI, Streamlit, and Repor
 
 ## 🧠 Certifications
 
-- [AI (KI) Development – Mystro GmbH](https://www.mystrotamer.com/)
-- Google Analytics Certified  
-- Generative AI for Educators – Google  
-- Advanced Machine Learning – Kaggle  
-- MLOps Fundamentals – Google Cloud  
-- Deep Learning Specialization – Coursera  
-- Data Science Professional Certificate – IBM  
-- LangChain & LLM Development  
+- [AI (KI) Development – Mystro GmbH](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR\n\nPraktikum)
+
 
 ---
 
-## 💻 Skills and Technologies
+## 💻 Skills & Technologies
 
-**Programming Languages:**  
+**Programming Languages**  
 Python (Advanced) • JavaScript • SQL • VBA  
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 FastAPI • Streamlit • Flask • PostgreSQL • SQLAlchemy • ReportLab • GitHub Actions • Docker  
 
-**Domains:**  
-AI / Machine Learning • Data Engineering • Resume Automation • Intelligent PDF Systems  
+**Specialized Domains**  
+AI & Machine Learning • Data Engineering • Resume Automation • Intelligent PDF Generation Systems  
+
 
 ---
 
@@ -61,7 +56,7 @@ AI / Machine Learning • Data Engineering • Resume Automation • Intelligent
 [![LeetCode](https://img.shields.io/badge/LeetCode-TamerOnLine-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/TamerOnLine/)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-TamerOnLine-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/TamerOnLine)
 [![Kaggle](https://img.shields.io/badge/Kaggle-TamerOnLine-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/tameronline)
-[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium)](https://medium.com/@TamerOnLine)
+
 
 ---
 
