@@ -18,7 +18,6 @@ I focus on creating open-source tools that connect **FastAPI**, **Streamlit**, a
 
 ## 🧠 Certifications
 
-- [Google Analytics Certified](https://skillshop.exceedlms.com/student/award)
 - [AI (KI) Development – Mystro GmbH](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR)
 
 ---
