@@ -55,11 +55,13 @@ AI / Machine Learning • Data Engineering • Resume Automation • Intelligent
 
 ### 🌐 Connect with Me
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TamerOnLine-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tameronline)
 [![X (Twitter)](https://img.shields.io/badge/X-@denkegewinnen-black?style=flat-square&logo=x)](https://x.com/denkegewinnen)
 [![YouTube](https://img.shields.io/badge/YouTube-@MystroTamer-red?style=flat-square&logo=youtube)](https://www.youtube.com/@mystrotamer)
 [![LeetCode](https://img.shields.io/badge/LeetCode-TamerOnLine-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/TamerOnLine/)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-TamerOnLine-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/TamerOnLine)
+[![Kaggle](https://img.shields.io/badge/Kaggle-TamerOnLine-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/tameronline)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat-square&logo=medium)](https://medium.com/@TamerOnLine)
 
 ---
 
