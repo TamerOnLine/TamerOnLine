@@ -2,15 +2,24 @@
 
 **Backend Developer | AI Engineer | Data-Driven Problem Solver**
 
-Passionate about building intelligent systems, optimizing workflows, and developing modern full-stack solutions powered by AI and Python.  
-I focus on creating open-source tools that connect FastAPI, Streamlit, and ReportLab to generate dynamic, print-ready PDFs and data-driven dashboards.
+Passionate about building intelligent systems, optimizing workflows, and developing modern full-stack solutions powered by **AI and Python**.  
+I focus on creating open-source tools that connect **FastAPI**, **Streamlit**, and **ReportLab** to generate dynamic, print-ready PDFs and data-driven dashboards.
+
+---
+
+## 🪪 Professional Identity
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3002--1770-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3002-1770)
+[![GitHub](https://img.shields.io/badge/GitHub-TamerOnLine-181717?logo=github)](https://github.com/TamerOnLine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/tameronline)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Tamer.dev-000000?logo=vercel)](https://tamer.dev)
 
 ---
 
 ## 🧠 Certifications
 
-- [AI (KI) Development – Mystro GmbH](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR\n\nPraktikum)
-
+- [Google Analytics Certified](https://skillshop.exceedlms.com/student/award)
+- [AI (KI) Development – Mystro GmbH](https://sway.cloud.microsoft/BVRyxoeaThCBbIsR)
 
 ---
 
@@ -25,7 +34,6 @@ FastAPI • Streamlit • Flask • PostgreSQL • SQLAlchemy • ReportLab • 
 **Specialized Domains**  
 AI & Machine Learning • Data Engineering • Resume Automation • Intelligent PDF Generation Systems  
 
-
 ---
 
 ## ⚙️ GitHub Insights
@@ -36,7 +44,7 @@ AI & Machine Learning • Data Engineering • Resume Automation • Intelligent
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -44,11 +52,9 @@ AI & Machine Learning • Data Engineering • Resume Automation • Intelligent
   </a>
 </p>
 
-
-
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TamerOnLine-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tameronline)
 [![X (Twitter)](https://img.shields.io/badge/X-@denkegewinnen-black?style=flat-square&logo=x)](https://x.com/denkegewinnen)
@@ -56,7 +62,6 @@ AI & Machine Learning • Data Engineering • Resume Automation • Intelligent
 [![LeetCode](https://img.shields.io/badge/LeetCode-TamerOnLine-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/TamerOnLine/)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-TamerOnLine-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/TamerOnLine)
 [![Kaggle](https://img.shields.io/badge/Kaggle-TamerOnLine-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/tameronline)
-
 
 ---
 
