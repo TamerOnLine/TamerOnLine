@@ -12,7 +12,7 @@ I focus on creating open-source tools that connect **FastAPI**, **Streamlit**, a
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--3002--1770-brightgreen?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-3002-1770)
 [![GitHub](https://img.shields.io/badge/GitHub-TamerOnLine-181717?logo=github)](https://github.com/TamerOnLine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/tameronline)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Tamer.dev-000000?logo=vercel)](https://tamer.dev)
+
 
 ---
 
