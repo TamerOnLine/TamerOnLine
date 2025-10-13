@@ -37,9 +37,71 @@ AI & Machine Learning • Data Engineering • Resume Automation • Intelligent
 
 ## ⚙️ GitHub Insights
 
-| **Stats** | **Top Languages** | **Streak** |
-|------------|-------------------|-------------|
-| ![Tamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&theme=github_dark_dimmed&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TamerOnLine&theme=github-dark-dimmed&hide_border=true) |
+<!-- ✨ Reliable embeds + automatic fallbacks in case of downtime -->
+
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Top Languages</th>
+    <th>Streak</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Primary version (official Vercel instance) -->
+      <a href="https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide_border=true">
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=TamerOnLine&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide_border=true"
+        />
+      </a>
+      <br/>
+      <!-- Fallback (optional self-hosted instance on Vercel) -->
+      <!-- Change 'tameronline' to your own Vercel project name if you deploy your own instance -->
+      <a href="https://github-readme-stats-git-main-tameronline.vercel.app/api?username=TamerOnLine&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide_border=true">
+        <sub>Fallback</sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true">
+        <img
+          alt="Top Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true"
+        />
+      </a>
+      <br/>
+      <a href="https://github-readme-stats-git-main-tameronline.vercel.app/api/top-langs/?username=TamerOnLine&layout=compact&langs_count=8&theme=github_dark_dimmed&hide_border=true">
+        <sub>Fallback</sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <!-- Use a more stable domain instead of herokuapp -->
+      <a href="https://streak-stats.demolab.com/?user=TamerOnLine&theme=github-dark-dimmed&hide_border=true">
+        <img
+          alt="GitHub Streak"
+          src="https://streak-stats.demolab.com/?user=TamerOnLine&theme=github-dark-dimmed&hide_border=true"
+        />
+      </a>
+      <br/>
+      <!-- Additional fallback -->
+      <a href="https://github-readme-streak-stats.herokuapp.com/?user=TamerOnLine&theme=github-dark-dimmed&hide_border=true">
+        <sub>Fallback</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      alt="GitHub Trophies"
+      src="https://github-profile-trophy.vercel.app/?username=TamerOnLine&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4&title=Joined2020,Repositories,Commits,Followers,Issues,Experience,PullRequest,Stars"
+    />
+  </a>
+</p>
+
 
 ---
 
