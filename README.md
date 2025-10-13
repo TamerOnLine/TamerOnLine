@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tamer Hamad Faour
 
-**Backend Developer | AI Engineer | Data-Driven Problem Solver**
+**Backend Developer** | **AI Engineer** | **Data-Driven Problem Solver**
 
 Passionate about building intelligent systems, optimizing workflows, and developing modern full-stack solutions powered by **AI and Python**.  
 I focus on creating open-source tools that connect **FastAPI**, **Streamlit**, and **ReportLab** to generate dynamic, print-ready PDFs and data-driven dashboards.
