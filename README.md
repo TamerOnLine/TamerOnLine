@@ -1,4 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Tamer
+
+💻 Software Developer | Backend & DevOps  
+🚀 Building production-grade server & automation systems
+
+### 🛠 Tech Stack
+- Python, FastAPI
+- Linux, Nginx, Docker
+- PostgreSQL, SQLite
+- GitHub Actions, CI/CD
+
+### 🔗 Projects
+- 🔧 Server Management System
+- 🤖 LLM Gateway (Ollama / Mistral)
+- 🌐 SEO-optimized FastAPI websites
+
+### 📫 Contact
+- LinkedIn: https://linkedin.com/in/...
+- GitHub: https://github.com/TamerOnLine
+
 
 <!--
 **TamerOnLine/TamerOnLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
