@@ -1,36 +1,42 @@
-# Tamer Hamad Faour
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Tamer Hamad Faour — Projects with purpose. Systems with structure." />
+</p>
 
-### Software projects, organized for practical use
+<p align="center"><strong>Project organization &nbsp; / &nbsp; Operational workflows &nbsp; / &nbsp; Practical automation</strong></p>
 
 I organize and develop software projects that connect **automation, data workflows, and developer tools**. My focus is on clear scope, reusable components, documented operating procedures, and changes that can be reviewed and verified.
 
-## Portfolio focus
+## A portfolio built around practical work
 
-- **Project organization:** turn technical ideas into defined workstreams and manageable deliverables.
-- **Operational workflows:** bring setup, configuration, maintenance, and recovery steps into a consistent structure.
-- **Data and automation:** connect Python tools, databases, and repeatable processing workflows.
-- **Maintainability:** make a project's purpose, setup, and limitations clear to the next person working on it.
+Each project addresses a specific workflow. Explore the repositories for their current scope, setup instructions, and limitations.
 
-## Selected public projects
+<a href="https://github.com/TamerOnLine/server_management_platform"><img src="./assets/operations.svg" width="560" alt="Server Management Platform — Python tooling for Linux application deployment and maintenance" /></a>
+<a href="https://github.com/TamerOnLine/reposmith-init"><img src="./assets/reposmith.svg" width="560" alt="RepoSmith — Python project scaffolding with environment, editor and CI configuration" /></a>
+<a href="https://github.com/TamerOnLine/postgres-admin-tools"><img src="./assets/database.svg" width="560" alt="PostgreSQL Admin Tools — development reference utilities, not a production administration panel" /></a>
+<a href="https://github.com/TamerOnLine/imgvideo"><img src="./assets/media.svg" width="560" alt="imgvideo — Python and FFmpeg batch audio removal with output verification and preserved originals" /></a>
+<a href="https://github.com/TamerOnLine/ml-core-project"><img src="./assets/ml.svg" width="560" alt="ML Core Project — configurable training, evaluation, tracking and model versioning" /></a>
 
-| Workstream | Project | Purpose |
-| --- | --- | --- |
-| Application operations | [Server Management Platform](https://github.com/TamerOnLine/server_management_platform) | A Python CLI toolkit for organizing application deployment and maintenance with Linux, systemd, and Nginx. |
-| Developer workflows | [RepoSmith](https://github.com/TamerOnLine/reposmith-init) | Python project scaffolding with environment, editor, and CI configuration. |
-| Database tooling | [PostgreSQL Admin Tools](https://github.com/TamerOnLine/postgres-admin-tools) | Development and reference utilities for database administration, backup, and restore; not a production administration panel. |
-| Media workflows | [imgvideo](https://github.com/TamerOnLine/imgvideo) | A local Python and FFmpeg tool for batch audio removal from videos, with output verification and preserved originals. |
-| Data experimentation | [ML Core Project](https://github.com/TamerOnLine/ml-core-project) | Configurable machine-learning workflows covering training, evaluation, experiment tracking, and model versioning. |
+## How I organize the work
 
-## Working principles
+### 01 · Define the goal
+Turn technical ideas into clear scopes, responsibilities, and manageable deliverables.
 
-**Define the goal → organize the work → build incrementally → verify the result → document the handoff.**
+### 02 · Connect the workflow
+Bring setup, configuration, data processing, maintenance, and recovery into a consistent structure.
 
-I value explicit responsibilities, traceable changes, and practical documentation. The aim is to make software easier to understand, operate, and extend.
+### 03 · Build for continuity
+Favor reusable components, traceable changes, and practical documentation that helps the next person understand and extend the project.
 
-## Technical foundation
+### 04 · Verify and hand over
+Review the result, make limitations explicit, and document how the software is operated.
 
-**Python · SQL / PostgreSQL · SQLAlchemy · scikit-learn · FFmpeg · Linux / WSL · Git · GitHub Actions**
+---
 
-Project documentation provides the setup instructions, current scope, and limitations for each repository.
+### Technical foundation
 
-[Explore my public repositories](https://github.com/TamerOnLine?tab=repositories)
+**Python** · **SQL / PostgreSQL** · **SQLAlchemy** · **scikit-learn**  
+**FFmpeg** · **Linux / WSL** · **Git** · **GitHub Actions**
+
+The technologies above reflect the documented public portfolio. Each repository provides its own setup and current limitations.
+
+<p align="center"><a href="https://github.com/TamerOnLine?tab=repositories"><strong>Explore all public repositories →</strong></a></p>
