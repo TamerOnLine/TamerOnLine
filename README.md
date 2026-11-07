@@ -1,42 +1,71 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Tamer Hamad Faour — Projects with purpose. Systems with structure." />
-</p>
+<p align="center"><img src="./assets/portfolio-header.svg" width="100%" alt="Tamer Hamad Faour — From project structure to practical software." /></p>
 
-<p align="center"><strong>Project organization &nbsp; / &nbsp; Operational workflows &nbsp; / &nbsp; Practical automation</strong></p>
+<p align="center"><strong>Project organization &nbsp; · &nbsp; Operational automation &nbsp; · &nbsp; Software integration</strong></p>
 
-I organize and develop software projects that connect **automation, data workflows, and developer tools**. My focus is on clear scope, reusable components, documented operating procedures, and changes that can be reviewed and verified.
+I organize and develop software around practical workflows: how a project starts, how its parts connect, how it is operated, and how the next person can understand it. My public work spans developer tooling, application operations, document and media tools, and AI/data experiments.
 
-## A portfolio built around practical work
+<p align="center"><a href="#selected-public-work">Selected work</a> &nbsp; / &nbsp; <a href="#how-i-approach-a-project">Working approach</a> &nbsp; / &nbsp; <a href="#technical-foundation">Technical foundation</a></p>
 
-Each project addresses a specific workflow. Explore the repositories for their current scope, setup instructions, and limitations.
+## Selected public work
 
-<a href="https://github.com/TamerOnLine/server_management_platform"><img src="./assets/operations.svg" width="560" alt="Server Management Platform — Python tooling for Linux application deployment and maintenance" /></a>
-<a href="https://github.com/TamerOnLine/reposmith-init"><img src="./assets/reposmith.svg" width="560" alt="RepoSmith — Python project scaffolding with environment, editor and CI configuration" /></a>
-<a href="https://github.com/TamerOnLine/postgres-admin-tools"><img src="./assets/database.svg" width="560" alt="PostgreSQL Admin Tools — development reference utilities, not a production administration panel" /></a>
-<a href="https://github.com/TamerOnLine/imgvideo"><img src="./assets/media.svg" width="560" alt="imgvideo — Python and FFmpeg batch audio removal with output verification and preserved originals" /></a>
-<a href="https://github.com/TamerOnLine/ml-core-project"><img src="./assets/ml.svg" width="560" alt="ML Core Project — configurable training, evaluation, tracking and model versioning" /></a>
+<a href="https://github.com/ToolOnWeb/Rpdf"><img src="./assets/portfolio-1.svg" width="100%" alt="PDF Control — DOCUMENT WORKFLOWS" /></a>
 
-## How I organize the work
+A local PDF workspace for editing, conversion and document processing, with a Python engine and a Phoenix LiveView integration. The repository includes worker isolation, recovery and release-bundle verification.
 
-### 01 · Define the goal
-Turn technical ideas into clear scopes, responsibilities, and manageable deliverables.
+**Python application + LiveView integration.** [Architecture & operating notes](https://github.com/ToolOnWeb/Rpdf/blob/main/docs/LIVEVIEW_OPERATING_AR.md) · [Verification workflows](https://github.com/ToolOnWeb/Rpdf/actions)
 
-### 02 · Connect the workflow
-Bring setup, configuration, data processing, maintenance, and recovery into a consistent structure.
+*Published under the ToolOnWeb organization.*
 
-### 03 · Build for continuity
-Favor reusable components, traceable changes, and practical documentation that helps the next person understand and extend the project.
+<a href="https://github.com/TamerOnLine/reposmith-init"><img src="./assets/portfolio-2.svg" width="100%" alt="RepoSmith — DEVELOPER ENABLEMENT" /></a>
 
-### 04 · Verify and hand over
-Review the result, make limitations explicit, and document how the software is operated.
+Turns a new Python project into a consistent workspace: entry files, environment setup, editor configuration and CI scaffolding. Its modular commands and test suite make the setup workflow inspectable and extendable.
 
----
+**Project bootstrapper.** [Source & setup](https://github.com/TamerOnLine/reposmith-init) · [Tests](https://github.com/TamerOnLine/reposmith-init/tree/main/tests)
 
-### Technical foundation
+<a href="https://github.com/TamerOnLine/server_management_platform"><img src="./assets/portfolio-3.svg" width="100%" alt="Server Management Platform — APPLICATION OPERATIONS" /></a>
 
-**Python** · **SQL / PostgreSQL** · **SQLAlchemy** · **scikit-learn**  
-**FFmpeg** · **Linux / WSL** · **Git** · **GitHub Actions**
+Brings application provisioning, environment configuration and update commands into a Python CLI around Linux, systemd and Nginx. A concrete example of organizing operations through a shared interface.
 
-The technologies above reflect the documented public portfolio. Each repository provides its own setup and current limitations.
+**Operational toolkit · latest reviewed CI failing (16 Aug 2026).** [Release v0.1.0](https://github.com/TamerOnLine/server_management_platform/releases/tag/v0.1.0) · [CI to review before deployment](https://github.com/TamerOnLine/server_management_platform/actions/runs/31974566545)
 
-<p align="center"><a href="https://github.com/TamerOnLine?tab=repositories"><strong>Explore all public repositories →</strong></a></p>
+<a href="https://github.com/TamerOnLine/imagectl"><img src="./assets/portfolio-4.svg" width="100%" alt="imagectl — CREATOR TOOLS" /></a>
+
+A batch image workflow for resizing by pixels or print dimensions, applying masks, filtering numbered files and exporting a ZIP. It connects everyday media work with a focused browser interface.
+
+**Packaged image tool · release v0.1.1.** [Release](https://github.com/TamerOnLine/imagectl/releases/tag/v0.1.1) · [Processing source](https://github.com/TamerOnLine/imagectl/blob/main/src/imagectl/app.py)
+
+<a href="https://github.com/TamerOnLine/CVEngine"><img src="./assets/portfolio-5.svg" width="100%" alt="CVEngine — MULTILINGUAL DOCUMENTS" /></a>
+
+An interactive resume-builder prototype connecting a FastAPI PDF backend with a Streamlit editor. Modular document blocks, themes and layouts provide a practical structure for Arabic, English and German resume content.
+
+**Application prototype.** [Generation backend](https://github.com/TamerOnLine/CVEngine/tree/main/api) · [Editor](https://github.com/TamerOnLine/CVEngine/tree/main/streamlit)
+
+<a href="https://github.com/TamerOnLine/NeuroServe"><img src="./assets/portfolio-6.svg" width="100%" alt="NeuroServe — AI SERVICE INTEGRATION" /></a>
+
+A FastAPI and PyTorch service prototype with explicit CPU/GPU selection and a plugin registry for model integrations. It explores how different model capabilities can share one service interface.
+
+**Extensible service prototype.** [Runtime selection](https://github.com/TamerOnLine/NeuroServe/blob/main/app/runtime.py) · [Plugin system](https://github.com/TamerOnLine/NeuroServe/tree/main/app/plugins)
+
+<a href="https://github.com/TamerOnLine/ml-core-project"><img src="./assets/portfolio-7.svg" width="100%" alt="ML Core Project — REPEATABLE DATA EXPERIMENTS" /></a>
+
+A configurable scikit-learn workflow for preprocessing, model selection, training and evaluation. Experiment records and versioned model artifacts keep the stages connected without putting every experiment in a separate script.
+
+**Research workflow toolkit.** [Training pipeline](https://github.com/TamerOnLine/ml-core-project/blob/main/ml_core_project/ml_core.py) · [Model versioning](https://github.com/TamerOnLine/ml-core-project/blob/main/ml_core_project/model_versioning.py)
+
+## How I approach a project
+
+**Define the outcome → structure the work → connect the parts → verify → document the handoff.**
+
+- **Make the scope clear.** Give each tool a concrete purpose and keep responsibilities understandable.
+- **Standardize repeated work.** Use shared commands, configuration and reusable components where the workflow calls for them.
+- **Keep operations visible.** Make setup, validation, recovery and release steps inspectable.
+- **Leave a useful handoff.** Document how to run the project and distinguish experiments from operational tools.
+
+## Technical foundation
+
+**Python** · **SQL / PostgreSQL** · **FastAPI** · **Elixir / Phoenix LiveView**  
+**scikit-learn / PyTorch** · **Pillow / FFmpeg** · **Linux / WSL** · **GitHub Actions**
+
+These technologies appear across my public repositories. Repository documentation, tests and release notes provide each project's current scope.
+
+<p align="center"><strong><a href="https://github.com/TamerOnLine?tab=repositories">Explore the public repositories →</a></strong></p>
